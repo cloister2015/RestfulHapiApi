@@ -1,0 +1,22 @@
+{
+  "name": "RESTfulHapiApi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "good-console": "^6.1.2",
+    "hapi": "^13.4.1",
+    "hapi-swagger": "^6.1.0",
+    "inert": "^4.0.0",
+    "joi": "^8.4.2",
+    "mongoose": "^4.5.2",
+    "vision": "^4.1.0"
+  }
+}
